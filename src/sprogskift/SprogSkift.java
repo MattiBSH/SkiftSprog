@@ -10,7 +10,7 @@ package sprogskift;
  * @author thor
  */
 public class SprogSkift {
-
+//youyoyoyoyoyoyoyoyo my booooooooooooooooooooooooi
 	/**
 	 * @param args the command line arguments
 	 */
